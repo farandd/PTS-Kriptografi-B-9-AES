@@ -1,5 +1,12 @@
 # Mini-AES 16-bit Encryption
 
+| Nama Lengkap                 | NRP        |
+ | -----------------------     | ---------- |
+ | Dani Wahyu Anak Ary         | 5027231038 |
+ | Malvin Putra Rismahardian   | 5027231048 |
+ | Farand Febriansyah          | 5027231084 |
+ | Veri Rahman                 | 5027231088 |
+
 ## Deskripsi
 Mini-AES adalah versi sederhana dari algoritma Advanced Encryption Standard (AES) yang dirancang untuk keperluan pembelajaran. Mini-AES mempertahankan struktur dasar AES seperti **SubBytes**, **ShiftRows**, **MixColumns**, dan **AddRoundKey**, namun dengan blok dan kunci berukuran kecil (16-bit).
 
