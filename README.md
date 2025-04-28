@@ -121,10 +121,12 @@ Start ➔ Input Key ➔ Generate Round Keys ➔ Output Round Keys
 
 ```
 mini_aes/
-├── mini_aes.py
-├── README.md
-├── test_cases/
-│   ├── input.txt
-│   └── output.txt
-└── requirements.txt
+├── avalanche_analysis.py     # Analisis efek avalanche (perubahan bit)
+├── ecbc.py                   # Implementasi mode operasi blok ECB dan CBC
+├── gui.py                    # GUI aplikasi (Tkinter atau Streamlit)
+├── mini_aes.py                # Implementasi utama Mini-AES (enkripsi dan dekripsi)
+├── mini-aes-encryption.py     # Main program/script utama
+├── testcase.py                # Kumpulan test case untuk validasi Mini-AES
+├── txtcsv.py                  # Ekspor dan impor input/output ke file TXT atau CSV
+└── README.md                  
 ```
